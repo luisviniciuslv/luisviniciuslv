@@ -1,4 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisviniciuslv&layout=compact&langs_count=7&theme=dracula "/>
 <div>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="50" height="50"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" height="50"/>
