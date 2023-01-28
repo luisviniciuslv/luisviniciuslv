@@ -20,7 +20,7 @@ Desde os 16 anos estudo programação como um todo, fiz cursos de Python, Nodejs
 
  
 <div>
-  <a href="https://github.com/joaotuliojt">
+  <a href="https://github.com/luisviniciuslv">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luisviniciuslv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luisviniciuslv&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
