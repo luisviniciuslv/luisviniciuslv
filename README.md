@@ -1,7 +1,26 @@
+### Sou um desenvolvedor que ama desafios e projetos criativos 🚀❤️
+
+Desde os 16 anos estudo programação como um todo, fiz cursos de Python, Nodejs, MongoDB, entre outros. Minha área de preferência é Back-end, mas possuo amplo conhecimento na área do Front-end. Sou uma pessoa altamente motivada, curiosa, inovadora e orientada a resultados, buscando uma posição em uma empresa onde desenvolvedores são valorizados.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<hr />
+
+### Tecnologias:
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white">
+### Frameworks:
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> ![Next JS](https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=express&logoColor=white)
+
+### Banco de Dados:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+ 
+ 
+ <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Luis Vinicius](https://img.shields.io/badge/-viinilv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=viinilv)](https://www.linkedin.com/in/viinilv/)
+
+ 
 <div>
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="50" height="50"/>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" height="50"/>
-<img src="https://cdn.discordapp.com/attachments/996464678647640264/1002400491738775632/pngwing.com.png" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="60" height="50"/>
-<img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="50" height="50"/>
-<div/>
+  <a href="https://github.com/joaotuliojt">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luisviniciuslv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luisviniciuslv&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
