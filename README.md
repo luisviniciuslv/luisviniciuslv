@@ -1,6 +1,6 @@
 ### Sou um desenvolvedor que ama desafios e projetos criativos 🚀❤️
 
-  <img src="./docs/monitor.jpeg" alt="CL Thumb" border="0" width="600px" height="150" style="object-fit: cover">
+<img src="./docs/monitor.png">
 
 Desde os 16 anos estudo programação como um todo, fiz cursos de Python, Nodejs, MongoDB, entre outros. Minha área de preferência é Back-end, mas possuo amplo conhecimento na área do Front-end. Sou uma pessoa altamente motivada, curiosa, inovadora e orientada a resultados, buscando uma posição em uma empresa onde desenvolvedores são valorizados.
 
