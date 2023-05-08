@@ -7,10 +7,6 @@ Desde os 16 anos estudo programação como um todo, fiz cursos de Python, Nodejs
 [![Linkedin: Luis Vinicius](https://img.shields.io/badge/-viinilv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=viinilv)](https://www.linkedin.com/in/viinilv/)
 [![instagram: viinilv](https://img.shields.io/badge/-viinilv-purple?style=flat-square&logo=instagram&logoColor=white&link=viinilv)](https://www.instagram.com/viinilv/)
 
-## 🎓
-
-- **Cursando:** Ciências da Computação - [Unip](https://www.unip.br/)
-
 ## Cursos e Certificados
 ### [Awari](https://awari.com.br/)
 - **Formação Desenvolvimento Web Full-Stack** - 300h
