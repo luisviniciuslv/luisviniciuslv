@@ -4,9 +4,6 @@
 
 Desde os 16 anos estudo programação como um todo, fiz cursos de Python, Nodejs, MongoDB, entre outros. Minha área de preferência é Back-end, mas possuo amplo conhecimento na área do Front-end. Sou uma pessoa altamente motivada, curiosa, inovadora e orientada a resultados, buscando uma posição em uma empresa onde desenvolvedores são valorizados.
 
-[![Linkedin: Luis Vinicius](https://img.shields.io/badge/-viinilv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=viinilv)](https://www.linkedin.com/in/viinilv/)
-[![instagram: viinilv](https://img.shields.io/badge/-viinilv-purple?style=flat-square&logo=instagram&logoColor=white&link=viinilv)](https://www.instagram.com/viinilv/)
-
 ## Cursos e Certificados
 ### [Awari](https://awari.com.br/)
 - **Formação Desenvolvimento Web Full-Stack** - 300h
