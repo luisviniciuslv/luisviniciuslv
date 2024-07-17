@@ -4,7 +4,9 @@
 
 ### [Awari](https://awari.com.br/)
 - **Formação Desenvolvimento Web Full-Stack** - 300h
+<img src="./docs/DesenvolvimentoWeb.png">
 - **NodeJS e MongoDB** - 15h
+<img src="./docs/NodeJsEMongoDB.png">
 
 ### [Alura](https://www.alura.com.br/)
 - **[Todos os cursos](https://cursos.alura.com.br/user/viinilv/fullCertificate/f17131528e29919dbe94b46312e40b8f)** - 100h+
