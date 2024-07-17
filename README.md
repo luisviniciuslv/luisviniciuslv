@@ -1,5 +1,6 @@
 <img src="./docs/monitor.png">
 ## Cursos e Certificados
+
 ### [Awari](https://awari.com.br/)
 - **Formação Desenvolvimento Web Full-Stack** - 300h
 - **NodeJS e MongoDB** - 15h
