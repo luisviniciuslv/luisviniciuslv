@@ -4,6 +4,11 @@
 <div align="center" >
 <p align="left">Sou o Vini 🙂<br>- 🔭 Trabalho na Tudo em nuvem<br>- 🃏 Aprendendo Docker/AWS<br>- 💫 2004</p>
 <img src="./docs/monitor.png">
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=luisviniciuslv&locale=pt-br&mode=weekly&theme=gotham&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 </div>
 
 ###
@@ -63,14 +68,6 @@
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="35" alt="ruby logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=luisviniciuslv&locale=pt-br&mode=weekly&theme=gotham&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
