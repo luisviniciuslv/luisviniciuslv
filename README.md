@@ -88,8 +88,3 @@
 
 ### [Alura](https://www.alura.com.br/)
 - **[Todos os cursos](https://cursos.alura.com.br/user/viinilv/fullCertificate/f17131528e29919dbe94b46312e40b8f)** - 100h+
-
-## 🛠️ Tecnologias 
-- [TypeScript](https://www.typescriptlang.org/) | [Python](https://www.python.org/)
-- [Express](https://expressjs.com/pt-br/) | [NestJS](https://nestjs.com/)
-- [Mongoose](https://mongoosejs.com/)
