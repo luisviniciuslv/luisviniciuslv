@@ -5,12 +5,6 @@
 <p align="left">Sou o Vini 🙂<br>- 🔭 Trabalho na Tudo em nuvem<br>- 🃏 Aprendendo Docker/AWS<br>- 💫 2004</p>
 <img src="./docs/monitor.png">
 <br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=luisviniciuslv&locale=pt-br&mode=weekly&theme=gotham&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-</div>
-
 ###
 <h2 align="center">Skills dominadas</h2>
 
