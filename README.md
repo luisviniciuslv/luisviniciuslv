@@ -3,7 +3,6 @@
 ###
 <div align="center" >
 <p align="left">Sou o Vini 🙂<br>- 🔭 Trabalho na Tudo em nuvem<br>- 🃏 Aprendendo Docker/AWS<br>- 💫 2004</p>
-<img src="./docs/monitor.png">
 <br clear="both">
 <h2 align="center">Skills dominadas</h2>
 
