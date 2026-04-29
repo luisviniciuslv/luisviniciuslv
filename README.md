@@ -20,13 +20,12 @@
 <br>
 
 <p align="center">
-  <a  href="#"><img src="https://img.shields.io/badge/AZURE-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" /></a>  
-  &nbsp;
+<kbd>
   <a  href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /></a>
   &nbsp;
   <a  href="#"><img src="https://img.shields.io/badge/RUST-000000?style=flat-square&logo=rust&logoColor=white" /></a>
+</kbd>
 </p>
-
 <br>
 
 ---
