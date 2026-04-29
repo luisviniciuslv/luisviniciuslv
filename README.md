@@ -24,6 +24,8 @@
   <a  href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /></a>
   &nbsp;
   <a  href="#"><img src="https://img.shields.io/badge/RUST-000000?style=flat-square&logo=rust&logoColor=white" /></a>
+  &nbsp;
+  <a  href="#"><img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=flat-square&logo=typescript&logoColor=white" /></a>
 </kbd>
 </p>
 <br>
