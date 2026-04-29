@@ -57,7 +57,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/luisviniciuslv"><b>GITHUB</b></a> &nbsp;//&nbsp; <a href="https://www.linkedin.com/in/luis-vinicius-lv/"><b>LINKEDIN</b></a>
+  <a href="https://github.com/luisviniciuslv"><b>GITHUB</b></a> &nbsp;//&nbsp; <a href="https://www.linkedin.com/in/viinilv/"><b>LINKEDIN</b></a>
 </p>
 
 <p align="center">
