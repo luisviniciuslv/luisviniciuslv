@@ -19,15 +19,13 @@
 
 <br>
 
-<p align="center">
-<kbd>
-  <a  href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /></a>
-  &nbsp;
-  <a  href="#"><img src="https://img.shields.io/badge/RUST-000000?style=flat-square&logo=rust&logoColor=white" /></a>
-  &nbsp;
-  <a  href="#"><img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=flat-square&logo=typescript&logoColor=white" /></a>
-</kbd>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP Badge" />
+  +
+  <img src="https://img.shields.io/badge/RUST-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust Badge" />
+  =
+  <img src="https://imgs.search.brave.com/lyQcIztKbEwj4Fa0Pya5c_5TY7Z2E2V2aDnMxhPiezI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU3/MTk0MTgxL3Bob3Rv/L2FuLWV4cGxvc2lv/bi1saXQtdXAtdGhl/LWRhcmtuZXNzLXdp/dGgtcmVkLWFuZC15/ZWxsb3ctZmxhbWVz/LmpwZz9zPTYxMng2/MTImdz0wJms9MjAm/Yz14WTUxcGNjOHlo/RVBJTlphSkcxYk1a/TVN6RXI0UUZ0eDlK/U0FsaXk5NHE0PQ" alt="Explosion" height="50" style="vertical-align: middle;" />
+</div>
 <br>
 
 ---
