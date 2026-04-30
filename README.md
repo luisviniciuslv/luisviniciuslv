@@ -36,10 +36,38 @@
 
 <br>
 
-<p align="center">
-  <a  href="#"><img src="https://skillicons.dev/icons?i=rust,ts,nodejs,azure,gcp,docker,postgres,mongodb,neo4j,git,linux,github,vscode" /></a>
-</p>
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="350">
+        <b>Linguagens</b><br><br>
+        <a href="#"><img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black&color=69cd68" alt="Python"></a>
+        <a href="#"><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow&color=84b6f4" alt="JavaScript"></a>
+        <a href="#"><img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=blue&color=84b6f4" alt="TypeScript"></a>
+        <a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=red&color=4c007d" alt="Rust"></a>
+      </td>
+      <td align="center" width="350">
+        <b>Banco de Dados</b><br><br>
+        <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&color=1a1b26" alt="PostgreSQL"></a>
+        <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=1a1b26" alt="MongoDB"></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="350">
+        <b>Ferramentas e Frameworks</b><br><br>
+        <a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&color=1a1b26" alt="Express.js"></a>
+        <a href="#"><img src="https://img.shields.io/badge/Axum-7A287E?style=for-the-badge&logo=rust&logoColor=white&color=1a1b26" alt="Axum"></a>
+        <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&color=1a1b26" alt="Pandas"></a>
+        <a href="#"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&color=1a1b26" alt="Jest"></a>
+      </td>
+      <td align="center" width="350">
+        <b>Cloud</b><br><br>
+        <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&color=1a1b26" alt="GCP"></a>
+        <a href="#"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=1a1b26" alt="Azure"></a>
+      </td>
+    </tr>
+  </table>
+</div>
 <br>
 
 ---
