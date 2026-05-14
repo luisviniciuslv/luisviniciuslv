@@ -74,14 +74,10 @@
 
 <br>
 
-<p align="center">
-  <a  href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisviniciuslv&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFFF&text_color=FFFFFF" height="180"></a>
-</p>
 
 <br>
 
 <p align="center">
-  <a  href="#"><img src="https://github-readme-stats.vercel.app/api?username=luisviniciuslv&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" height="170"></a>
   &nbsp;&nbsp;
   <a  href="#"><img src="https://streak-stats.demolab.com?user=luisviniciuslv&theme=tokyonight&hide_border=true&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=Streak%20Semanal&mode=weekly" height="170"></a>
 </p>
